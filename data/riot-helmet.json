@@ -1,0 +1,13 @@
+{
+  "name": "Casque anti-\u00e9meute",
+  "id": "riot-helmet",
+  "type": "\u00c9quipement",
+  "command": "cheat gfi RiotHelmet 1 0 0",
+  "image": "/images/riot-helmet.png",
+  "tags": [
+    "riot",
+    "casque",
+    "blind\u00e9"
+  ],
+  "description": "Le casque anti-\u00e9meute est lourd, mais tr\u00e8s r\u00e9sistant aux d\u00e9g\u00e2ts."
+}

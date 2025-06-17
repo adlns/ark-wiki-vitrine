@@ -1,0 +1,13 @@
+{
+  "name": "Argentavis",
+  "id": "argentavis",
+  "type": "Volant",
+  "command": "cheat summon Argent_Character_BP_C",
+  "image": "/images/argentavis.png",
+  "tags": [
+    "dino",
+    "volant",
+    "transport"
+  ],
+  "description": "L'Argentavis est parfait pour transporter des ressources sur de longues distances."
+}

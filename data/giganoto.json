@@ -1,0 +1,13 @@
+{
+  "name": "Giganotosaure",
+  "id": "giganoto",
+  "type": "Carnivore",
+  "command": "cheat summon Gigant_Character_BP_C",
+  "image": "/images/giganoto.png",
+  "tags": [
+    "dino",
+    "gros",
+    "ultime"
+  ],
+  "description": "Le Giganotosaure est la cr\u00e9ature la plus puissante et destructrice du jeu."
+}

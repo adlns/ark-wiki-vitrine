@@ -1,0 +1,13 @@
+{
+  "name": "Plastron Flak",
+  "id": "flak-chest",
+  "type": "\u00c9quipement",
+  "command": "cheat gfi FlakShirt 1 0 0",
+  "image": "/images/flak-chest.png",
+  "tags": [
+    "flak",
+    "armure",
+    "milieu-jeu"
+  ],
+  "description": "Le plastron Flak offre une bonne d\u00e9fense contre les attaques physiques."
+}

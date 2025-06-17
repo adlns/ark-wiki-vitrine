@@ -1,0 +1,13 @@
+{
+  "name": "Spinosaure",
+  "id": "spino",
+  "type": "Carnivore",
+  "command": "cheat summon Spino_Character_BP_C",
+  "image": "/images/spino.png",
+  "tags": [
+    "dino",
+    "carnivore",
+    "aquatique"
+  ],
+  "description": "Le Spinosaure est rapide, puissant, et amphibie. Id\u00e9al pour les zones aquatiques."
+}

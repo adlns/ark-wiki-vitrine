@@ -1,0 +1,13 @@
+{
+  "name": "Tyrannosaure",
+  "id": "rex",
+  "type": "Carnivore",
+  "command": "cheat summon Rex_Character_BP_C",
+  "image": "/images/rex.png",
+  "tags": [
+    "dino",
+    "carnivore",
+    "boss-ready"
+  ],
+  "description": "Le Tyrannosaure est un pr\u00e9dateur puissant souvent utilis\u00e9 pour les boss fight."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Casque Tek",
+  "id": "tek-helmet",
+  "type": "\u00c9quipement",
+  "command": "cheat gfi TekHelmet 1 0 0",
+  "image": "/images/tek-helmet.png",
+  "tags": [
+    "tek",
+    "casque",
+    "avanc\u00e9"
+  ],
+  "description": "Le casque Tek offre une vision avanc\u00e9e et une protection renforc\u00e9e."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Combinaison Hazmat",
+  "id": "hazmat-suit",
+  "type": "\u00c9quipement",
+  "command": "cheat gfi HazmatShirt 1 0 0",
+  "image": "/images/hazmat-suit.png",
+  "tags": [
+    "hazmat",
+    "toxique",
+    "protection"
+  ],
+  "description": "Utilis\u00e9e dans les zones radioactives, cette tenue prot\u00e8ge contre les \u00e9l\u00e9ments dangereux."
+}

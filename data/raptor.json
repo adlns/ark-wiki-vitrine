@@ -1,0 +1,13 @@
+{
+  "name": "Raptor",
+  "id": "raptor",
+  "type": "Carnivore",
+  "command": "cheat summon Raptor_Character_BP_C",
+  "image": "/images/raptor.png",
+  "tags": [
+    "dino",
+    "rapide",
+    "early-game"
+  ],
+  "description": "Petit mais rapide, le Raptor est redoutable pour les d\u00e9buts de partie."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bottes en fourrure",
+  "id": "fur-boots",
+  "type": "\u00c9quipement",
+  "command": "cheat gfi FurBoots 1 0 0",
+  "image": "/images/fur-boots.png",
+  "tags": [
+    "fourrure",
+    "froid",
+    "armure"
+  ],
+  "description": "Indispensables dans les environnements tr\u00e8s froids pour \u00e9viter l\u2019hypothermie."
+}
